@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About aplikasi
+## About aplikasi penjualan
 
 <p>
     aplikasi ini berfokus pada penjualan bunga di CV. Putri Emas Pertiwi Flowers menggunakan metode FIFO dalam melakukan pengeluaran stok bunga tersebut, serta bunga ini juga di inputkan berdasarkan panjang bunga, misal ada yang 2CM, 4CM dll.
